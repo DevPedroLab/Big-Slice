@@ -1,0 +1,8 @@
+:root {
+    --primary: rgb(255, 46, 46);
+    --secondary: rgb(234, 234, 234);
+    --footer-bg: rgb(80, 28, 28);
+    --footer-icon-bg: rgb(100, 28, 28);
+    --info-bg: rgb(230, 230, 230);
+    --accent: rgb(250, 112, 112);
+}
