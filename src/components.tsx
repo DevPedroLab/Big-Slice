@@ -124,7 +124,7 @@ export const Header = () => {
     return (
         <>
             <header className="header">
-                <img src="/src/assets/Big-Slice-Logo-White-Yellow.png" alt="Big Slice Logo" />
+                <img src="/assets/Big-Slice-Logo-White-Yellow.png" alt="Big Slice Logo" />
                 <span onClick={() => setState(!state)} className="fa-solid fa-bars open-sidebar"></span>
             </header>
             <div 
@@ -155,7 +155,7 @@ export const Footer = () => {
 
     return (
        <footer className="contact">
-        <img src="/src/assets/Big-Slice-Logo-White.png" alt="Big Slice Logo" />
+        <img src="/assets/Big-Slice-Logo-White.png" alt="Big Slice Logo" />
         <p className="description">{data.text_data.paragraphs[4]}</p>
         <h2 className="header-title">Fast Links</h2>
         <div className="nav-links">

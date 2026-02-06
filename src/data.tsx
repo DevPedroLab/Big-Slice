@@ -16,49 +16,49 @@ export const data = {
         "popular_choice": 1,
 
         "1": {
-            "image": "/src/assets/bbq-chicken.jpg",
+            "image": "/assets/bbq-chicken.jpg",
             "name": "BBQ Chicken Pizza",
             "description": "Bar-B-Que Sauce, Chicken, Shallots, Red Peppers Mozzarella, Cheddar Cheese",
             "price": 14.90
         },
 
         "2": {
-            "image": "/src/assets/margherita.webp",
+            "image": "/assets/margherita.webp",
             "name": "Margherita Pizza",
             "description": "Fresh Tomato, Garlic, Basil, Shallots, Mozzarella Cheese, Red Sauce",
             "price": 12.90
         },
 
         "3": {
-            "image":"/src/assets/pepperoni.jpg",
+            "image":"/assets/pepperoni.jpg",
             "name": "Pepperoni Pizza",
             "description": "Cheese, Tomato Sauce, Pepperoni",
             "price": 13.90
         },
 
         "4": {
-            "image":"/src/assets/chickenout-lead.jpg",
+            "image":"/assets/chickenout-lead.jpg",
             "name": "Honey Garlic Chicken Alfredo",
             "description": "White sauce topped with chicken, garlic, mozzarella, Parmesan and honey",
             "price": 14.90
         },
 
         "5": {
-            "image": "/src/assets/veggie.webp",
+            "image": "/assets/veggie.webp",
             "name": "Veggie",
             "description": "Mushrooms, Onions, Green Peppers, Black & Green Olives, Tomatoes, Mozzarella Cheese",
             "price": 13.90
         },
 
         "6": {
-            "image": "/src/assets/meat-lovers.webp",
+            "image": "/assets/meat-lovers.webp",
             "name": "Meat Lover's Pizza",
             "description": "Sausage, Pepperoni, Canadian Bacon, Cappicola",
             "price": 14.90
         },
 
         "7": {
-            "image": "/src/assets/cheesy-mac.jpg",
+            "image": "/assets/cheesy-mac.jpg",
             "name": "Cheesy Mac Pizza",
             "description": "Chicken, Bacon, Pasta, Garlic, Shallots finished with Mozzarella, Cheddar, Parmesan Cheese",
             "price": 15.90
